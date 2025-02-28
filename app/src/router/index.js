@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import MainLayout from '@/layouts/MainLayout.vue'
-import Home from '@/pages/home/Home.vue'
-import Schedule from '@/pages/schedule/Schedule.vue'
+import Home from '@/views/home/Home.vue'
+import Schedule from '@/views/schedule/Schedule.vue'
 
 const routes = [
   {
