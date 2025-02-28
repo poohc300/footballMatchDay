@@ -13,7 +13,7 @@ const routes = [
         component: Home
       },
       {
-        path: 'schuedule',
+        path: 'schedule',
         component: Schedule
       },
      
